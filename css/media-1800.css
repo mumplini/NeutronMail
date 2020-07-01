@@ -1,0 +1,146 @@
+@media (max-width: 1800px) {
+  body {
+    width: 100%;
+  }
+
+  .header-wrapper {
+    width: 88%;
+  }
+  .navigation {
+    justify-content: space-between;
+  }
+  .nav-menu {
+    margin-right: 0;
+  }
+
+  .about-container {
+    justify-content: center;
+    padding-left: 21%;
+  }
+  .about-title-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-right: 0;
+  }
+  .about-title-wrap h2 {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
+  .about-title-wrap p {
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+  }
+  .about-buttons-pane {
+    justify-content: space-around;
+    width: 51%;
+    margin-left: 0;
+  }
+  .btn-shadow-wrapper {
+    left: -11px;
+  }
+
+  .security-section {
+    flex-wrap: nowrap;
+  }
+  .security-left-container {
+    justify-content: flex-end;
+    padding-right: 33px;
+    padding-left: 0;
+  }
+  .security-left-row {
+    width: 793px;
+  }
+  .right-border-line {
+    width: 11%;
+  }
+  .security-btn {
+    position: absolute;
+    left: 53%;
+  }
+  .security-btn:hover {
+    bottom: 31px;
+    left: 53%;
+    width: 334px;
+    height: 62px;
+    font-size: 16px;
+  }
+
+  .mass-media-icons-container {
+    justify-content: space-between;
+  }
+  .wall-icon {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .nytimes-icon {
+    margin-right: 0;
+  }
+  .theguard-icon {
+    margin-right: 0;
+  }
+  .forbes-icon {
+    margin-right: 0;
+  }
+  .frankfurter-icon {
+    margin-right: 0;
+  }
+  .news-container {
+    margin-left: 21%;
+  }
+
+  .gradient-container {
+    width: 100%;
+  }
+  .devices-container {
+    width: 78%;
+    margin-left: 22%;
+    background-position: 95%;
+  }
+  .devices-notice {
+    margin-left: 19%;
+  }
+
+  .donate-container {
+    margin-left: 22%;
+  }
+
+  .support-title-wrap {
+    width: 68%;
+    margin-left: 33%;
+  }
+  .support-icons-container {
+    justify-content: space-between;
+  }
+  .deltails-icon {
+    margin-left: 0;
+  }
+  .fongit-icon {
+    margin-left: 0;
+  }
+  .quo-icon {
+    margin-left: 0;
+  }
+  .bird-icon {
+    margin-left: 0;
+  }
+  .rad-icon {
+    margin-left: 0;
+  }
+  .ip-icon {
+    margin-left: 0;
+  }
+  .info-wrap {
+    justify-content: space-between;
+    width: 86%;
+    margin-left: 14%;
+  }
+  .nav-container {
+    margin-left: 0;
+  }
+  footer {
+    padding-left: 11%;
+  }
+}

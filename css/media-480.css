@@ -1,0 +1,48 @@
+@media (max-width: 480px) {
+  .about-container {
+    padding-left: 2%;
+  }
+  .about-wrap {
+    width: 333px;
+  }
+  .support-title-wrap {
+    overflow: auto;
+  }
+  .mail-container {
+    height: 120px;
+  }
+  .mail-container li:last-child {
+    border-top: 1px solid #b9b9b9;
+  }
+  .nav-container {
+    padding-right: 2%;
+  }
+  .nav-container nav {
+    padding-right: 0;
+  }
+  .nav-container .neutron-nav {
+    padding-right: 0;
+  }
+  .nav-container h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .site-nav {
+    width: 85px;
+  }
+
+  footer {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .footer-social-container {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+  }
+  footer {
+    top: 270px;
+    height: 70px;
+    padding-top: 0;
+  }
+}

@@ -1,0 +1,29 @@
+@media (max-width: 1400px) {
+  .header {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+  }
+
+  .about-container {
+    padding-left: 17%;
+  }
+
+  .anonymous-wrap {
+    padding-right: 3%;
+    padding-left: 1%;
+  }
+  .anonymous-description {
+    width: 100%;
+  }
+
+  .devices-container {
+    width: 100%;
+    margin-left: 0%;
+    background-position: 100%;
+  }
+
+  .donate-wrap {
+    margin-left: 6%;
+  }
+}

@@ -1,0 +1,17 @@
+@media (max-width: 540px) {
+  .about-wrap {
+    width: 366px;
+    padding-right: 0;
+  }
+  .about-title-wrap {
+    width: 100%;
+  }
+  .about-title-wrap h2 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .about-title-wrap p {
+    font-size: 20px;
+    line-height: 20px;
+  }
+}
