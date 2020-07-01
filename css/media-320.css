@@ -2,4 +2,7 @@
   .about-wrap {
     width: 287px;
   }
+  .security-btn a {
+    padding: 4px;
+  }
 }
